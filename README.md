@@ -1,3 +1,5 @@
+> alper's note: the fork by [@stcmz](https://github.com/stcmz/idock) is updated and contains precompiled binaries..
+
 Important
 =========
 
